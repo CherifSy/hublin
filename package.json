@@ -54,7 +54,7 @@
     "bower": "1.7.9",
     "chai": "3.5.0",
     "closure-linter-wrapper": "1.1.0",
-    "cookie": "0.3.1",
+    "cookie": "0.7.0",
     "grunt-continue": "0.1.0",
     "grunt-contrib-clean": "1.0.0",
     "grunt-contrib-concat": "1.0.1",
